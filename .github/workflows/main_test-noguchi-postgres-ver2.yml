@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'test-noguchi-postgres-ver2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9AF2B5341724AECAD238477B6F61E3C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FE834E16CBE48DA8C897197CE31BB41 }}
