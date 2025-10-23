@@ -17,7 +17,7 @@ client = AzureOpenAI(
 )
 
 # --- PostgreSQL 接続情報 ---
-DB_HOST = "localhost"
+DB_HOST = "10.12.47.114"
 DB_NAME = "unipa"
 DB_USER = "unipauser"
 DB_PASS = "unipauser"
